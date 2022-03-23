@@ -1,6 +1,6 @@
 # Olá, Eu sou josé Carlos Farias
 
-😀Hoje  estou estudando o curso de front end na Ebac
+😀Hoje  estou estudando o curso de Full Stack Paython na Ebac
 
 🙄Até aqui aprendendo html,css e github
 
