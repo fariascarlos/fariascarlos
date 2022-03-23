@@ -1,10 +1,8 @@
 # Olá, Eu sou josé Carlos Farias
 
-##Hoje  estou estudando o curso de front end na Ebac
-
-###Até aqui aprendendo html,css e github
-
-###Próximo passo aprender javascript
+Hoje  estou estudando o curso de front end na Ebac
+Até aqui aprendendo html,css e github
+Próximo passo aprender javascript
 
 
 
