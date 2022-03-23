@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @fariascarlos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Olá, Eu sou josé Carlos Farias
+😃Hoje  estou estudando o curso de front end na Ebac
+😎Até aqui aprendendo html,css e github
+🙄Próximo passo aprender javascript
+
+
 
 <!---
 fariascarlos/fariascarlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
